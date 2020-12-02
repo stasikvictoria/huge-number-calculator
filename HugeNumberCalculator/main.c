@@ -5,10 +5,9 @@
 //  Created by Victoria Stasik on 31/10/2020.
 //
 
+#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
+int main(void) {
+    return EXIT_SUCCESS;
 }
